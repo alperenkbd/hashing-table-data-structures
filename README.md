@@ -1,4 +1,4 @@
 # hashing-table-data-structures
 -data structures hash table uygulaması  
--pdf dosyası ödevin konusunu içermektedir  
+-pdf dosyası projenin konusunu içermektedir  
 -rar dosyasını indirip kodları uygulayabilirsiniz. 
